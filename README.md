@@ -1,2 +1,1 @@
-# rsschool-cv
-RS School iOS 2020_Task 0
+https://anthonyvolkov.github.io/rsschool-cv/cv
