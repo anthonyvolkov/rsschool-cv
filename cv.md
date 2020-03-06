@@ -34,6 +34,16 @@ Belarusian-Russian University,
 Belarus, Mogilev
 Faculty of construction, Automobile Roads
 
+## Courses
+2018
+EPAM Systems, iOS Development training
+
+2017
+Belhard, JavaEE
+
+2017
+Belhard, JavaSE
+
 ## Languages
 Russian — Native
 English — B1 — Intermediate
